@@ -1,0 +1,4 @@
+Rudd,Invalid date,Invalid salary,Invalid salary,Invalid salary,Invalid salary
+Ryan Chen,Date not entered,10000,2669,7331,1000
+John Doe,2013-03-15 - 2013-04-15,41667,16519,25148,Invalid super rate
+
